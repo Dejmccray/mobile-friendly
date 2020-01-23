@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css?family=Merriweather|Pacifico&display=swap');
+
+body {
+    font-family: 'Merriweather', serif;
+}
+
+#main-font {
+    font-family: 'Pacifico', cursive;
+}
+
+.header {
+    font-family: pacifico;
+    font-size: x-large;
+}
+.jumbotron {
+    background: url('../img/Calligraphy\ tools.jpg') center center no-repeat;
+    background-size: cover;
+    height: 70vh;  
+}
+
